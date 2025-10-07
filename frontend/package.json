@@ -1,0 +1,22 @@
+{
+  "name": "my22school-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1",
+    "axios": "^1.7.7",
+    "socket.io-client": "^4.7.5",
+    "react-router-dom": "^6.26.2",
+    "@mui/material": "^5.16.7",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "jwt-decode": "^4.0.0",
+    "framer-motion": "^11.3.31"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
